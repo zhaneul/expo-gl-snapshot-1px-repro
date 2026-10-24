@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "expo-gl-snapshot-1px-repro",
+    "slug": "expo-gl-snapshot-1px-repro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "dev.repro.glsnapshot"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "package": "dev.repro.glsnapshot"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
